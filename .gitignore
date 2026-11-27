@@ -1,0 +1,13 @@
+.env
+*.session
+*.session-journal
+cookies.txt
+__pycache__/
+*.pyc
+downloads/
+cache/
+logs/
+*.log
+venv/
+node_modules/
+*.bak*
